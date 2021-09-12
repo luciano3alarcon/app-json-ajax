@@ -7,6 +7,6 @@
 <title>System Zugang</title>
 </head>
 <body>
-	<h3>Seite wird nach Login zugegriffen</h3>
+	<h3>Seite wird nach Login zugegriffen, nach der Überprüfung von Filter</h3>
 </body>
 </html>

@@ -7,18 +7,30 @@
 <title>Kurs Json Ajax - Java advance</title>
 </head>
 <body>
-	 
+
 	<h2>Fortgeschritte Ressources in Java</h2>
 
 	<!-- hier werde ich die verschiedene Ressources aufgelistet. -->
 	<table>
 		<tr>
-		<td><a href="pages/captureExceptions.jsp"><h3>1. Exceptions fangen</h3></a></td>
+			<td><a href="pages/captureExceptions.jsp"><h3>1.
+						Exceptions fangen</h3></a></td>
 		</tr>
-		
+
 		<tr>
-		<td><a href="pages/systemZugang.jsp"><h3>2. System Zugang</h3></a></td>
+			<td><a href="pages/systemZugang.jsp"><h3>2. System
+						Zugang</h3></a></td>
 		</tr>
+
+		<tr>
+			<td><a href="pages/parentsSeite.jsp"><h3>3. Loading
+						jQuery</h3></a></td>
+		</tr>
+
+		<tr>
+			<td><a href="pages/progressBar.jsp"><h3>4. Progress Bar</h3></a></td>
+		</tr>
+
 	</table>
 
 
